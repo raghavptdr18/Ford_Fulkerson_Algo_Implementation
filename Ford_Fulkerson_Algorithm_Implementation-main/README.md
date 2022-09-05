@@ -1,9 +1,8 @@
-# 2020CSB1117_2020CSB1115_2020CSB1118_Ford-Fulkerson_algorithm
+# Ford-Fulkerson_algorithm
 CS201 - DSA project on Maximum Foow using Ford-Fulkerson Algorithm
 Created by 
-Rohan(2020CSB1117)
 Raghav Patidar(2020CSB1115)
-Rohit Kinha(2020CSB1118)
+
 
 PROGRAM RUNNING INSTRUCTIONS :
 At first user will input number of vertices.
