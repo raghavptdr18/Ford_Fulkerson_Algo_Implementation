@@ -14,5 +14,8 @@ Once you are done, Enter -1 to stop taking further inputs.
 
 Now the program will ask you to enter the source and sink vertex, give that input.
 
+Note that -> 
+-- Source vertex has all outward edges and sink vertex has all inward edges.
+
 Finally the program will tell you the maximum flow from source to sink vertex.
 Program ends successfully :-)
