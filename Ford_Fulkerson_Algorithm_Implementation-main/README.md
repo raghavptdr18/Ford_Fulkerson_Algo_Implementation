@@ -1,5 +1,5 @@
 # Ford-Fulkerson_algorithm
-CS201 - DSA project on Maximum Foow using Ford-Fulkerson Algorithm
+CS201 - DSA project on Maximum Flow using Ford-Fulkerson Algorithm
 Created by 
 Raghav Patidar(2020CSB1115)
 
